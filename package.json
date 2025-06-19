@@ -1,5 +1,5 @@
 {
-  "name": "@isgb/paquete-estadistica",
+  "name": "@isgb/paquete-estadistica-cf",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/isgb/paquete-estadistica-js.git"
+    "url": "https://github.com/isgb/paquete-estadistica-cf.git"
   },
   "keywords": [],
   "author": "Isaías Salvador",
@@ -16,9 +16,9 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "bugs": {
-    "url": "https://github.com/isgb/paquete-estadistica-js/issues"
+    "url": "https://github.com/isgb/paquete-estadistica-cf/issues"
   },
-  "homepage": "https://github.com/isgb/paquete-estadistica-js#readme",
+  "homepage": "https://github.com/isgb/paquete-estadistica-cf#readme",
   "description": "Funciones estadísticas y generación de gráficas con Node.js",
   "dependencies": {
     "canvas": "^3.1.0",
